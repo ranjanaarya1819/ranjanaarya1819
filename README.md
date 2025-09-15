@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranjan Aarya!
 
-<!--
-**ranjanaarya1819/ranjanaarya1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python & Data Analytics  
+- 🌱 I’m learning Machine Learning  
+- 👯 I’m looking to collaborate on GitHub projects  
+- 📫 How to reach me: www.linkedin.com/in/ranjanaarya18
+- ⚡ Fun fact: I love coding while listening to music 🎵  
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- Python 🐍
+- Excel 📊
+- SQL 💾
+- Data Visualization 📈
+- Java 📊
+- CCNA 📊
+- DSA📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Ranjan Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjanaarya1819&show_icons=true&theme=radical)
