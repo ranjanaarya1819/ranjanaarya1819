@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ranjan Aarya!
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ranjanaarya1819/ranjanaarya1819/main/a817d480.png" alt="Banner" style="max-width:100%; height:auto;" />
+  <img src="https://github.com/ranjanaarya1819/ranjanaarya1819/blob/main/Ranjan%20DATA%20Analytics.png?raw=true" alt="Banner" style="max-width:100%; height:auto;" />
 </p>
 
 
