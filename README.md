@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Ranjan Aarya!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ranjanaarya1819/ranjanaarya1819/main/a817d480.png" alt="Banner" width="800"/>
+</p>
+
 
 - 🔭 I’m currently working on Python & Data Analytics  
 - 🌱 I’m learning Machine Learning  
