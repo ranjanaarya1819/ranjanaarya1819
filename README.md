@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on Python & Data Analytics  
-- 🌱 I’m learning Machine Learning  
+- 🌱 I’m learning about Machine Learning  
 - 👯 I’m looking to collaborate on GitHub projects  
 - 📫 How to reach me: www.linkedin.com/in/ranjanaarya18
 - ⚡ Fun fact: I love coding while listening to music 🎵  
