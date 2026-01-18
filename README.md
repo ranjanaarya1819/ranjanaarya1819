@@ -31,8 +31,8 @@
 ---
 
 ## 📌 Featured Projects
-
-- 🛒 **Thekua Store** – React + FastAPI E-Commerce UI
+- 🛒***School Management System** -React + FastAPI
+- 🛒 **Ranjan Thekua Store** – React + FastAPI E-Commerce UI
 - 📘 **Blog API** – FastAPI + SQLAlchemy CRUD APIs
 - 📝 **Todo App** – Full Stack React + FastAPI
 - 📊 **PII Detection Benchmark** – Accuracy Testing Project
