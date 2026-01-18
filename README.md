@@ -1,26 +1,26 @@
-# 👋 Hi, I'm Ranjan Aarya!
+Hi 👋 I'm Ranjan Aarya
 
-<p align="center">
-  <img src="https://github.com/ranjanaarya1819/ranjanaarya1819/blob/main/Ranjan%20DATA%20Analytics.png?raw=true" alt="Banner" style="max-width:100%; height:auto;" />
-</p>
+🚀 Full Stack Developer | Python + React + FastAPI
 
+💻 Skills:
+- Frontend: React.js, JavaScript, HTML, CSS
+- Backend: FastAPI, Python, REST APIs
+- Database: MySQL, SQLite
+- Tools: Git, GitHub, Postman, VS Code
 
+🔥 Projects:
+-📝 School Management System (React + FastAPI)
+- 🛒 Ranjan Thekua Store (React + FastAPI)
+- 📘 Blog API (FastAPI + SQLAlchemy)
+- 📝 Todo App (React + FastAPI)
+- 📊 PII Detection Benchmark
 
+📫 Connect:
+LinkedIn: (add your link)
+Email: (your email)
 
-- 🔭 I’m currently working on Python & Data Analytics  
-- 🌱 I’m learning about Machine Learning  
-- 👯 I’m looking to collaborate on GitHub projects  
-- 📫 How to reach me: www.linkedin.com/in/ranjanaarya18
-- ⚡ Fun fact: I love coding while listening to music 🎵  
+🌟 Always learning and building real-world full-stack apps
 
-## 🚀 My Skills
-- Python 🐍
-- Excel 📊
-- SQL 💾
-- Data Visualization 📈
-- Java 📊
-- CCNA 📊
-- DSA📈
 
 ## 📊 GitHub Stats
 ![Ranjan Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjanaarya1819&show_icons=true&theme=radical)
