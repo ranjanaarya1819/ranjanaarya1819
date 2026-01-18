@@ -1,7 +1,14 @@
 <!-- ===================== BANNER ===================== -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/ranjanaarya1819/ranjanaarya1819/blob/main/Ranjan%20Banner.png?raw=true" alt="Ranjan Aarya Banner" width="100%" />
+  <img src="banner.png" alt="Ranjan Aarya Banner" width="100%" />
 </p>
+
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ranjan+Aarya;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Building+Real+World+Projects" />
+</p>
+
 
 <img src="banner.png" width="100%" />
 
