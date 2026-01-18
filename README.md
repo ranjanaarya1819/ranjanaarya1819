@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
+<img src= />
 
 <h1 align="center">Hi 👋 I'm Ranjan Aarya</h1>
 
