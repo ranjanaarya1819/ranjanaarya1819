@@ -24,3 +24,9 @@ Email: (your email)
 
 ## 📊 GitHub Stats
 ![Ranjan Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjanaarya1819&show_icons=true&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![React](https://img.shields.io/badge/React-Developer-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![FullStack](https://img.shields.io/badge/FullStack-Developer-orange)
+
