@@ -1,4 +1,8 @@
 <!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Ranjan Aarya Banner" width="100%" />
+</p>
+
 <img src="banner.png" width="100%" />
 
 <h1 align="center">Hi 👋 I'm Ranjan Aarya</h1>
