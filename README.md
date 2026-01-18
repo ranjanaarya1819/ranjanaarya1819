@@ -1,55 +1,41 @@
-<!-- ===================== BANNER ===================== -->
-
+<!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="banner.png" alt="Ranjan Aarya Banner" width="100%" />
+  <img src="banner.png" width="100%" />
 </p>
-
-
-
-
-
 
 <h1 align="center">Hi 👋 I'm Ranjan Aarya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Building+Modern+Web+Applications" />
 </p>
+---
+## 🚀 About Me
+
+💻 Full Stack Developer  
+⚙️ Working with **React + FastAPI + Python**  
+📊 Love building APIs, dashboards, and real-world apps  
+🎯 Goal: Become an industry-ready full stack engineer
 
 ---
-
-## 👨‍💻 About Me
-
-🚀 Full Stack Developer with strong skills in **React.js, FastAPI, and Python**  
-💻 Passionate about building real-world web apps and APIs  
-📊 Interested in Benchmarking, APIs, and Cloud Deployment  
-🎯 Focused on continuous learning and improvement
-
----
-
 ## 🧠 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue" />
-<img src="https://img.shields.io/badge/React-Frontend-blue" />
-<img src="https://img.shields.io/badge/FastAPI-Backend-green" />
-<img src="https://img.shields.io/badge/MySQL-Database-orange" />
-<img src="https://img.shields.io/badge/Git-GitHub-black" />
-<img src="https://img.shields.io/badge/AWS-Cloud-yellow" />
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,js,html,css,mysql,git,github,aws" />
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-- 🛒 **Thekua Store** – Full Stack React + FastAPI E-Commerce
-- 📝 **Todo App** – CRUD App using React + FastAPI
-- 📘 **Blog API** – REST APIs built with FastAPI + SQLAlchemy
-- 📊 **PII Detection Benchmark** – API accuracy & evaluation project
+| Project | Description |
+|--------|------------|
+| 🛒 School Management System | Full-stack React +FastAPI 
+| 🛒 Ranjan Thekua Store | Full-stack React + FastAPI E-Commerce |
+| 📝 Todo App | CRUD App with API & Database |
+| 📘 Blog API | FastAPI REST API Project |
+| 📊 PII Benchmark | Real-world API testing & evaluation |
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ranjanaarya1819&show_icons=true&theme=tokyonight" />
 </p>
@@ -77,7 +63,7 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
 
 
