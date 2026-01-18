@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Ranjan Aarya Banner" width="100%" />
+  <img src="https://github.com/ranjanaarya1819/ranjanaarya1819/blob/main/Ranjan%20Banner.png?raw=true" alt="Ranjan Aarya Banner" width="100%" />
 </p>
 
 <img src="banner.png" width="100%" />
