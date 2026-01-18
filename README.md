@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/ranjanaarya1819/ranjanaarya1819/main/banner.png" width="100%" />
+<!-- ===================== BANNER ===================== -->
+<img src="banner.png" width="100%" />
 
 <h1 align="center">Hi 👋 I'm Ranjan Aarya</h1>
 
@@ -11,14 +11,14 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer (React + FastAPI)
-- 💻 Passionate about Python, APIs & Web Apps
-- 🎯 Focused on building real-world projects
-- 📊 Interested in Benchmark Testing & Data APIs
+🚀 Full Stack Developer with strong skills in **React.js, FastAPI, and Python**  
+💻 Passionate about building real-world web apps and APIs  
+📊 Interested in Benchmarking, APIs, and Cloud Deployment  
+🎯 Focused on continuous learning and improvement
 
 ---
 
-## 🧠 Skills
+## 🧠 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-Expert-blue" />
@@ -26,27 +26,28 @@
 <img src="https://img.shields.io/badge/FastAPI-Backend-green" />
 <img src="https://img.shields.io/badge/MySQL-Database-orange" />
 <img src="https://img.shields.io/badge/Git-GitHub-black" />
+<img src="https://img.shields.io/badge/AWS-Cloud-yellow" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🛒 **School Management System** - React + FastAPI
-- 🛒 **Ranjan Thekua Store** – React + FastAPI Full Stack Project
-- 📘 **Blog API** – FastAPI + SQLAlchemy CRUD APIs
-- 📝 **Todo App** – Full Stack React + FastAPI
-- 📊 **PII Detection Benchmark** – API Accuracy Testing
+
+- 🛒 **Thekua Store** – Full Stack React + FastAPI E-Commerce
+- 📝 **Todo App** – CRUD App using React + FastAPI
+- 📘 **Blog API** – REST APIs built with FastAPI + SQLAlchemy
+- 📊 **PII Detection Benchmark** – API accuracy & evaluation project
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ranjanaarya1819&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ranjanaarya1819&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanaarya1819&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanaarya1819&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,7 +55,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanaarya1819&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanaarya1819&theme=tokyonight" />
 </p>
 
 ---
@@ -68,7 +69,7 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 
 
