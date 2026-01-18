@@ -1,16 +1,13 @@
 <!-- ===================== BANNER ===================== -->
-<!-- Profile Banner -->
+
 <p align="center">
   <img src="banner.png" alt="Ranjan Aarya Banner" width="100%" />
 </p>
 
-<!-- Animated Typing Text -->
-<p align="center">
-  font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ranjan+Aarya;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Building+Real+World+Projects" />
-</p>
 
 
-<img src="banner.png" width="100%" />
+
+
 
 <h1 align="center">Hi 👋 I'm Ranjan Aarya</h1>
 
